@@ -1,7 +1,7 @@
 name: animated_gesture_detector
-description: A starting point for Dart libraries or applications.
+description: A package that allows u to create animated press/hold effect.
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/KhudoliiAndrew/animated_gesture_detector.git
 
 environment:
   sdk: '>=2.15.0 <3.0.0'
